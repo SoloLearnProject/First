@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>What We've Learned</title>
+  
+  <meta charset="UTF-8">
+ 
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+
+<div class="container-fluid">
+<body>
+  
+  <h1 class="text-center">What We've Learned About Coding and Development</h1>
+  
+  <div>
+    <h2>Resources for learning about coding</h2>
+    
+  <div>
+  <p>Links to sites and resources we're using to learn about coding:</p>
+    
+  <ul>
+     <!--Add sites you're using! -->
+    <li><a href="https://www.sololearn.com/">SoloLearn</a>: Where it all started for this team</li>
+    <li><a href="https://www.freecodecamp.org/">FreeCodeCamp.org</a>: Rapid-fire front-end development lessons with projects and community</li>
+    <li><a href="https://codepen.io">CodePen</a>: The code editor used by FreeCodeCamp. Pretty much front-end only.</li>
+    <li><a href="#">xx another site we're using xx</a>: xx description or why we're using it or what we like about it</li>
+    <li><a href="#">xx another site we're using xx</a>: xx description or why we're using it or what we like about it</li>
+    <li><a href="#">xx another site we're using xx</a>: xx description or why we're using it or what we like about it</li>
+    <li><a href="#">xx another site we're using xx</a>: xx description or why we're using it or what we like about it</li>
+    <li><a href="#">xx another site we're using xx</a>: xx description or why we're using it or what we like about it</li>
+  </ul>
+  </div>
+  </div>
+  
+  <div><h2>Our favorite (and not-so-favorite) coding languages</h2>
+    <h3>Python</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>Python</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>C#</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>C++</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>Java</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>SQL</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>JavaScript</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>jQuery</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>HTML</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>CSS</h3>
+    <p>xx some comments about this language</p>
+        
+    <h3>VB (Visual Basic)</h3>
+    <p>xx some comments about this language</p>
+    
+    <h3>xx another language xx</h3>
+    <p>xx some comments about this language</p>
+        
+    <h3>xx another language xx</h3>
+    <p>xx some comments about this language</p>
+    
+  </div>
+    
+  </body>
+  </div>
+
+</html>
+</html>
