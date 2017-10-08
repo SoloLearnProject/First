@@ -12,6 +12,7 @@ namespace cSharpTestConsoleApp
         {
             // Test please add some code here
             Console.WriteLine("Hello SoloLearnProject");
+
             Console.Read();
         }
     }
